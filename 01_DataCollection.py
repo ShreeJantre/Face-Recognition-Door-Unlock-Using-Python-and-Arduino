@@ -18,7 +18,7 @@ while(True):
 		cv2.waitKey(100)
 	cv2.imshow("Face",img)
 	cv2.waitKey(1)
-	if(sampleNum>50):
+	if(sampleNum>20):
 		break
 cam.release()
 cv2.destroyAllWindows()
