@@ -1,9 +1,0 @@
-Steps to install libraries in cmd
-
-cv2 = pip install opencv-python
-pyserial = pip install pyserial
-time = pip install time
-pyttsx3 = pip install pyttsx3
-numpy = pip install numpy
-pillow = pip install pillow
-os = pip install os
