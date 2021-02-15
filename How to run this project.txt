@@ -1,0 +1,5 @@
+1) Run '01_DataCollection.py' it will ask number put any desire. It will collect your face data and stores in dataSet folder. 
+2) Run '02_Trainer.py' it will compute all data into the single yml file and stores in recognizer folder.
+3) Upload Arduino code.Use Arduino Ide (Note - keep haarcascade_frontalface_default.xml file in project folder don't delete.) 
+4) Run '03_FaceRecognition.py' it will compare your live picture with stored data.
+.............Done!
